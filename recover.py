@@ -11,7 +11,7 @@ import time
 import requests
 import os
 import subprocess
-print("Compiling modules, wait...")
+
 #upadated
 def generate_mnemonic():
     mnemo = mnemonic.Mnemonic("english")
@@ -97,3 +97,4 @@ if __name__ == "__main__":
 
     else:
         logging.error("Invalid choice. Exiting...")
+
