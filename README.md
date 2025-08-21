@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ```
 python recover.py
 ```
-Or binary: https://github.com/panosdd123/bitcoin-restore/releases/download/btc/btc-recover.zip
+Or binary: https://github.com/panosdd123/bitcoin-restore/releases/download/t/btc-recover.zip
 
 2. Follow the on-screen prompts to choose between recovering a wallet from a partial mnemonic or checking random wallets.
 3. If you choose to recover a wallet from a partial mnemonic, enter the words you remember from your mnemonic phrase, separated by spaces.
@@ -69,4 +69,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Star 🌟
 
 Don't forget to star and watch the repo for updates. Your support is greatly appreciated!
+
 
